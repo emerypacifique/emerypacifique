@@ -26,8 +26,8 @@ A dedicated cybersecurity professional with a passion for safeguarding digital l
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://pngimg.com/uploads/photoshop/photoshop_PNG12.png" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://www.gitkraken.com/wp-content/uploads/2022/02/CLI-stands-forHero.png" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/45807407?v=4?s=400" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://storage.googleapis.com/replit/images/1664554382910_fd6f8b5cd69d8c4cd37662ac11fbba93.jpeg" />
 <br />
 
 #
