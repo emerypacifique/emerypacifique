@@ -8,10 +8,11 @@ A dedicated cybersecurity professional with a passion for safeguarding digital l
 
 
 
-- 📫 How to reach me **duhirwenayo.e.pacifique@gmail.com**
+- 📫 How to reach me:
+-  **duhirwenayo.e.pacifique@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### Connect with me:
+<p align="left" width="30px" style="padding-right:10px;">
 <a href="https://linkedin.com/in/emery pacifique duhirwenayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emery pacifique duhirwenayo" height="30" width="40" /></a>
 </p>
 
