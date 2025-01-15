@@ -5,7 +5,7 @@
 
 A dedicated cybersecurity professional with a passion for safeguarding digital landscapes. With a certain knowledge in privacy protection, active directories and windows servers. In a world where everything has become digital, security becomes more of a need than a luxury.
 
-
+---
 
 
 ### 📫 How to reach me:
@@ -16,6 +16,8 @@ A dedicated cybersecurity professional with a passion for safeguarding digital l
 <a href="https://linkedin.com/in/emery pacifique duhirwenayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emery pacifique duhirwenayo" height="30" width="40" /></a>
 </p>
 
+
+---
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
