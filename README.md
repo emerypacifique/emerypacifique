@@ -8,8 +8,8 @@ A dedicated cybersecurity professional with a passion for safeguarding digital l
 
 
 
-- 📫 How to reach me:
--  **duhirwenayo.e.pacifique@gmail.com**
+### 📫 How to reach me:
+ **duhirwenayo.e.pacifique@gmail.com**
 
 ### Connect with me:
 <p align="left" width="30px" style="padding-right:10px;">
@@ -25,9 +25,9 @@ A dedicated cybersecurity professional with a passion for safeguarding digital l
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://pngimg.com/uploads/photoshop/photoshop_PNG12.png" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://www.gitkraken.com/wp-content/uploads/2022/02/CLI-stands-forHero.png" />
 <br />
 
 #
