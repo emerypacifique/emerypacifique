@@ -1,9 +1,12 @@
-<h1 align="center">Hello, I'm Emery Pacifique DUHIRWENAYO</h1>
-<h3 align="center">Jr. Penetration Tester</h3>
+# 🌞Emery Pacifique DUHIRWENAYO
 
-- 🌱 currently pursuing Bachelors Degree **Software Engineering**
+**`Developer/Penetration Tester/Nerd😎😉`**
+<h3>Jr. Penetration Tester:👨🏾‍💻</h3>
 
-- 💬 Ask me about **cyber security and Privacy**
+A dedicated cybersecurity professional with a passion for safeguarding digital landscapes. With a certain knowledge in privacy protection, active directories and windows servers. In a world where everything has become digital, security becomes more of a need than a luxury.
+
+
+
 
 - 📫 How to reach me **duhirwenayo.e.pacifique@gmail.com**
 
