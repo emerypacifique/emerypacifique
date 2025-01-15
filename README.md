@@ -1,7 +1,7 @@
 # 😎Emery Pacifique DUHIRWENAYO
 
-**`Software Engineer/Penetration Tester/Nerd😎😉`**
-<h3>Jr. Penetration Tester:👨🏾‍💻</h3>
+**`Software Engineer/Penetration Tester👨🏾‍💻/Nerd😎😉`**
+
 
 A dedicated cybersecurity professional with a passion for safeguarding digital landscapes. With a certain knowledge in privacy protection, active directories and windows servers. In a world where everything has become digital, security becomes more of a need than a luxury.
 
