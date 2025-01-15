@@ -32,4 +32,4 @@ A dedicated cybersecurity professional with a passion for safeguarding digital l
 #
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emerypacifique&show_icons=true&locale=en&layout=compact" alt="emerypacifique" /></p>
+
