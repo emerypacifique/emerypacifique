@@ -7,6 +7,14 @@ A dedicated cybersecurity professional with a passion for safeguarding digital l
 
 ---
 
+### Projects 
+<a href="https://github.com/emerypacifique/Emery-DUHIRWENAYO">
+<a href="https://github.com/emerypacifique/PLUGGABLE-DATABASE-">
+<a href="https://github.com/emerypacifique/EMPLOYEE-ATTENDANCE-ANALYSIS">
+<a href="https://github.com/emerypacifique/oracle_sql_Assignment1">
+
+---
+
 
 ### 📫 How to reach me:
  **duhirwenayo.e.pacifique@gmail.com**
