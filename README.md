@@ -8,10 +8,10 @@ A dedicated cybersecurity professional with a passion for safeguarding digital l
 ---
 
 ### Projects 
-<a href="https://github.com/emerypacifique/Emery-DUHIRWENAYO">
-<a href="https://github.com/emerypacifique/PLUGGABLE-DATABASE-">
-<a href="https://github.com/emerypacifique/EMPLOYEE-ATTENDANCE-ANALYSIS">
-<a href="https://github.com/emerypacifique/oracle_sql_Assignment1">
+* [Emery-DUHIRWENAYO](https://github.com/emerypacifique/Emery-DUHIRWENAYO)
+* [PLUGGABLE-DATABASE-](https://github.com/emerypacifique/PLUGGABLE-DATABASE-)
+* [EMPLOYEE-ATTENDANCE-ANALYSIS](https://github.com/emerypacifique/EMPLOYEE-ATTENDANCE-ANALYSIS)
+* [oracle_sql_Assignment1](https://github.com/emerypacifique/oracle_sql_Assignment1)
 
 ---
 
