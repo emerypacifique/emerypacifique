@@ -3,7 +3,7 @@
 **`Software Engineer/Penetration Tester👨🏾‍💻/Linux Administrator/Nerd😎😉`**
 
 
-A dedicated cybersecurity professional with a passion for safeguarding digital landscapes. With a certain knowledge in privacy protection, active directories and windows servers. In a world where everything has become digital, security becomes more of a need than a luxury.
+A dedicated cybersecurity professional with a passion for safeguarding digital landscapes. I hold certifications as a Certified Ethical Hacker (CEH) and in Network Operations, complemented by additional skills in System Administration and Linux Administration. My expertise includes privacy protection, active directories, and Windows servers. In a world where everything has become digital, security becomes more of a need than a luxury.
 
 ---
 
@@ -13,7 +13,7 @@ A dedicated cybersecurity professional with a passion for safeguarding digital l
 
 ### Connect with me:
 <p align="left" width="30px" style="padding-right:10px;">
-<a href="https://linkedin.com/in/emery pacifique duhirwenayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emery pacifique duhirwenayo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emerypacifique/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emery pacifique duhirwenayo" height="30" width="40" /></a>
 </p>
 
 
