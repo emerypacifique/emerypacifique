@@ -1,9 +1,9 @@
 # 😎Emery Pacifique DUHIRWENAYO
 
-**`Software Engineer/Penetration Tester👨🏾‍💻/Linux Administrator/Nerd😎😉`**
+**`Front-end Developer/Security Engineer👨🏾‍💻/Linux System Administrator/Nerd😎😉`**
 
 
-A dedicated cybersecurity professional with a passion for safeguarding digital landscapes. I hold certifications as a Certified Ethical Hacker (CEH) and in Network Operations, complemented by additional skills in System Administration and Linux Administration. My expertise includes privacy protection, active directories, and Windows servers. In a world where everything has become digital, security becomes more of a need than a luxury.
+"A dedicated cybersecurity professional with a passion for safeguarding digital landscapes and creating clean, intuitive websites. I hold certifications as a Certified Ethical Hacker (CEH) and in Network Operations, complemented by additional skills in System Administration, Linux Administration, and front-end development. My expertise spans privacy protection, active directories, and Windows servers, while my keen eye for design drives me to craft visually appealing user interfaces that balance aesthetics with functionality. I believe that great design and strong security should work hand in hand to create seamless digital experiences. In a world where everything has become digital, security becomes more of a need than a luxury."
 
 ---
 
