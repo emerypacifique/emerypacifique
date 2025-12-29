@@ -12,6 +12,8 @@
 * [PLUGGABLE-DATABASE-](https://github.com/emerypacifique/PLUGGABLE-DATABASE-)
 * [EMPLOYEE-ATTENDANCE-ANALYSIS](https://github.com/emerypacifique/EMPLOYEE-ATTENDANCE-ANALYSIS)
 * [oracle_sql_Assignment1](https://github.com/emerypacifique/oracle_sql_Assignment1)
+* [Linux/System Administration & DevOps](https://github.com/emerypacifique/Linux-Final-Project)
+* [Real Estate Dynamic Web Application](https://github.com/emerypacifique/26765-Real_Estate)
 
 ---
 
